@@ -1,0 +1,5 @@
+{
+  "versionName": "1.0.3",
+  "url": "https://github.com/flc3580711327-ops/game-replay-updates/releases/download/v1.0.3/GameReplay-1.0.3.apk",
+  "note": "新增色轮自选配色，移除晴空蓝和恢复默认入口。\n背景暗度与卡片透明度支持页面内即时调节。\n共享控件和公告弹窗采用柔光玻璃样式。\n检查更新改为按版本号比较，公告加载不再提示。"
+}
