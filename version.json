@@ -1,5 +1,5 @@
 {
   "versionName": "1.0.4",
-  "url": "https://github.com/flc3580711327-ops/game-replay-updates/releases/download/v1.0.4/GameReplay-1.0.4.apk",
+  "url": "https://github.com/YunsVoid/game-replay-updates/releases/download/v1.0.4/GameReplay-1.0.4.apk",
   "note": "色轮选色即时应用并自动保存。\n支持自定义悬浮球图片，完整等比例显示，不裁剪。\n悬浮球大小支持32–128dp即时预览。\n操作与静止不透明度分别可调，松手3秒后自动变淡。\n新增非强制更新介绍与两个下载站点，自动提示间隔24小时。"
 }
